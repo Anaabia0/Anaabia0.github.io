@@ -1,0 +1,38 @@
+
+
+<img style="height: 550px;;"src="" id="imagem">
+<h1 id="nomeDragon">...</h1>
+<br>
+<h3 id="descricao">...</h3>
+<!--<p> Pokedex:
+    <span id="Dragondex"> </span>
+</p>
+<p> Habilidades:
+    <ana> </ana>
+</p>--->
+
+<script>
+    async function nomePersonagem() {
+  const url = "https://dragonball-api.com/api/characters/2";
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    const json = await response.json();
+    console.log(json);
+    console.log(json.name);
+
+    document.getElementById('nomeDragon').innerText = json.name;
+    document.getElementById('imagem').src = json.image;
+    document.getElementById('descricao').innerText = json.description;
+
+    
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+    nomePersonagem();
+
+</script>
