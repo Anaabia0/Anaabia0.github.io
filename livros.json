@@ -1,0 +1,270 @@
+{
+    "categorias": [
+      {
+        "nome": "Ficção",
+        "livros": [
+          {
+            "id": 1,
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "ano": 1949,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 2,
+            "titulo": "O Sol é Para Todos",
+            "autor": "Harper Lee",
+            "ano": 1960,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 3,
+            "titulo": "A Metamorfose",
+            "autor": "Franz Kafka",
+            "ano": 1915,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 4,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 5,
+            "titulo": "Ensaio sobre a Cegueira",
+            "autor": "José Saramago",
+            "ano": 1995,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 6,
+            "titulo": "Grande Sertão: Veredas",
+            "autor": "João Guimarães Rosa",
+            "ano": 1956,
+            "idioma": "Português",
+            "disponivel": true
+          }
+        ]
+      },
+      {
+        "nome": "Não-ficção",
+        "livros": [
+          {
+            "id": 7,
+            "titulo": "Sapiens",
+            "autor": "Yuval Noah Harari",
+            "ano": 2011,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 8,
+            "titulo": "O Gene",
+            "autor": "Siddhartha Mukherjee",
+            "ano": 2016,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 9,
+            "titulo": "Na Natureza Selvagem",
+            "autor": "Jon Krakauer",
+            "ano": 1996,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 10,
+            "titulo": "O Andar do Bêbado",
+            "autor": "Leonard Mlodinow",
+            "ano": 2008,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 11,
+            "titulo": "A Coragem de Ser Imperfeito",
+            "autor": "Brené Brown",
+            "ano": 2012,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 12,
+            "titulo": "Por que dormimos?",
+            "autor": "Matthew Walker",
+            "ano": 2017,
+            "idioma": "Português",
+            "disponivel": true
+          }
+        ]
+      },
+      {
+        "nome": "Fantasia",
+        "livros": [
+          {
+            "id": 13,
+            "titulo": "O Senhor dos Anéis",
+            "autor": "J.R.R. Tolkien",
+            "ano": 1954,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 14,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "autor": "J.K. Rowling",
+            "ano": 1997,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 15,
+            "titulo": "As Crônicas de Nárnia",
+            "autor": "C.S. Lewis",
+            "ano": 1950,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 16,
+            "titulo": "A Canção de Gelo e Fogo",
+            "autor": "George R. R. Martin",
+            "ano": 1996,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 17,
+            "titulo": "Eragon",
+            "autor": "Christopher Paolini",
+            "ano": 2002,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 18,
+            "titulo": "O Nome do Vento",
+            "autor": "Patrick Rothfuss",
+            "ano": 2007,
+            "idioma": "Português",
+            "disponivel": true
+          }
+        ]
+      },
+      {
+        "nome": "Ciência",
+        "livros": [
+          {
+            "id": 19,
+            "titulo": "Uma Breve História do Tempo",
+            "autor": "Stephen Hawking",
+            "ano": 1988,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 20,
+            "titulo": "Cosmos",
+            "autor": "Carl Sagan",
+            "ano": 1980,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 21,
+            "titulo": "O Universo Numa Casca de Noz",
+            "autor": "Stephen Hawking",
+            "ano": 2001,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 22,
+            "titulo": "O Mundo Assombrado pelos Demônios",
+            "autor": "Carl Sagan",
+            "ano": 1995,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 23,
+            "titulo": "O Livro da Matemática",
+            "autor": "Clifford A. Pickover",
+            "ano": 2011,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 24,
+            "titulo": "O Gene Egoísta",
+            "autor": "Richard Dawkins",
+            "ano": 1976,
+            "idioma": "Português",
+            "disponivel": false
+          }
+        ]
+      },
+      {
+        "nome": "História",
+        "livros": [
+          {
+            "id": 25,
+            "titulo": "Guns, Germs and Steel",
+            "autor": "Jared Diamond",
+            "ano": 1997,
+            "idioma": "Inglês",
+            "disponivel": true
+          },
+          {
+            "id": 26,
+            "titulo": "Uma História da Humanidade",
+            "autor": "Yuval Noah Harari",
+            "ano": 2011,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 27,
+            "titulo": "História da Riqueza no Brasil",
+            "autor": "Jorge Caldeira",
+            "ano": 2017,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 28,
+            "titulo": "Breve História do Século XX",
+            "autor": "Geoffrey Blainey",
+            "ano": 2005,
+            "idioma": "Português",
+            "disponivel": true
+          },
+          {
+            "id": 29,
+            "titulo": "A História das Coisas",
+            "autor": "Annie Leonard",
+            "ano": 2010,
+            "idioma": "Português",
+            "disponivel": false
+          },
+          {
+            "id": 30,
+            "titulo": "História Concisa do Brasil",
+            "autor": "Bóris Fausto",
+            "ano": 1992,
+            "idioma": "Português",
+            "disponivel": true
+          }
+        ]
+      }
+    ]
+  }
+  
