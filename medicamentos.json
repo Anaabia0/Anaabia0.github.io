@@ -1,0 +1,78 @@
+{
+    "sucesso": true,
+    "total_medicamentos": 4,
+    "data_exportacao": "2025-09-01 19:48:10",
+    "medicamentos": [
+        {
+            "id": 4,
+            "nome_medicamento": "Dipirona",
+            "dosagem_valor": 500,
+            "dosagem_unidade": "mg",
+            "frequencia_por_dia": 4,
+            "horarios_personalizados": [
+                "08:00:00",
+                "14:00:00",
+                "20:00:00",
+                "02:00:00"
+            ],
+            "data_inicio": "2025-09-01",
+            "data_fim": null,
+            "foto_path": null,
+            "observacoes": "Tomar apenas em caso de dor - máximo 4x ao dia",
+            "ativo": true,
+            "criado_em": "2025-09-01 16:28:43",
+            "atualizado_em": "2025-09-01 16:28:43"
+        },
+        {
+            "id": 1,
+            "nome_medicamento": "Losartana",
+            "dosagem_valor": 50,
+            "dosagem_unidade": "mg",
+            "frequencia_por_dia": 1,
+            "horarios_personalizados": [
+                "08:00:00"
+            ],
+            "data_inicio": "2025-09-01",
+            "data_fim": null,
+            "foto_path": null,
+            "observacoes": "Tomar com água, de preferência pela manhã",
+            "ativo": true,
+            "criado_em": "2025-09-01 16:28:43",
+            "atualizado_em": "2025-09-01 16:28:43"
+        },
+        {
+            "id": 2,
+            "nome_medicamento": "Omeprazol",
+            "dosagem_valor": 20,
+            "dosagem_unidade": "mg",
+            "frequencia_por_dia": 1,
+            "horarios_personalizados": [
+                "07:30:00"
+            ],
+            "data_inicio": "2025-09-01",
+            "data_fim": null,
+            "foto_path": null,
+            "observacoes": "Tomar 30 minutos antes do café da manhã",
+            "ativo": true,
+            "criado_em": "2025-09-01 16:28:43",
+            "atualizado_em": "2025-09-01 16:28:43"
+        },
+        {
+            "id": 3,
+            "nome_medicamento": "Vitamina D",
+            "dosagem_valor": 2000,
+            "dosagem_unidade": "UI",
+            "frequencia_por_dia": 1,
+            "horarios_personalizados": [
+                "12:00:00"
+            ],
+            "data_inicio": "2025-09-01",
+            "data_fim": "2025-12-01",
+            "foto_path": null,
+            "observacoes": "Tomar com alguma refeição",
+            "ativo": true,
+            "criado_em": "2025-09-01 16:28:43",
+            "atualizado_em": "2025-09-01 16:28:43"
+        }
+    ]
+}
